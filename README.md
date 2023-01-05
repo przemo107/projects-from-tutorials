@@ -1,1 +1,1 @@
-# projects-from-tutorials
+# projects-from-tutorials-calculator
